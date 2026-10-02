@@ -1,33 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F0E6D2&center=true&vCenter=true&width=600&lines=Aaroh+Sinha;ECE+Undergrad+%40+BIT+Mesra;Aspiring+Software+Developer" alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=140&section=header" width="100%" />
 </div>
 
 ## 👋 Hello there!
 
-![version](https://img.shields.io/badge/version-2026-blue?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=c0392b&style=flat-square)
-[![Follow](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=140&section=header" width="100%" />
 ## 🧑‍💻 About Me
 
-💡 I'm a third-year ECE undergrad at **BIT Mesra**. I love both coding and electronics, but I'm leaning towards software as my career path.
-
-💼 Right now, I'm interning at **Pariskq IoT Solutions**, a Bangalore-based startup, where I'm helping build an upcoming B2B SaaS product.
-
-🌱 I'm diving deeper into full stack development, backend systems, and building scalable systems.
-
-📚 I'm a proper comic nerd. I've got a GlobalComix subscription and I binge comics like there's no tomorrow.
-
-🚴 I love cycling. Earphones in, wind in my face, and that's my kind of peace.
-
-✉️ You can email me at [aarohsinha.programming@gmail.com](mailto:aarohsinha.programming@gmail.com). I'll get back to you as soon as I can!
-
-🌐 Check out my portfolio: [aarohsinha.space](https://aarohsinha.space/)
-
+💡 I'm a third-year ECE undergrad at **BIT Mesra**. I love both coding and electronics, but I'm leaning towards software as my career path.<br>
+💼 Right now, I'm interning at **Pariskq IoT Solutions**, a Bangalore-based startup, where I'm helping build an upcoming B2B SaaS product.<br>
+🌱 I'm diving deeper into full stack development, backend systems, and building scalable systems.<br>
+📚 I'm a proper comic nerd. I've got a GlobalComix subscription and I binge comics like there's no tomorrow.<br>
+🚴 I love cycling. Earphones in, wind in my face, and that's my kind of peace.<br>
+✉️ You can email me at [aarohsinha.programming@gmail.com](mailto:aarohsinha.programming@gmail.com). I'll get back to you as soon as I can!<br>
+🌐 Check out my portfolio: [aarohsinha.space](https://aarohsinha.space/)<br>
 📄 Check my [LinkedIn](https://www.linkedin.com/in/aaroh-sinha-375a8a324/) for more about my experience.
+
 
 ## 🛠️ Tech Stack
 
