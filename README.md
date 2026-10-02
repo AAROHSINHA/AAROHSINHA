@@ -4,9 +4,6 @@
 
 </div>
 
-## 👋 Hello there!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=140&section=header" width="100%" />
 ## 🧑‍💻 About Me
 
 💡 I'm a third-year ECE undergrad at **BIT Mesra**. I love both coding and electronics, but I'm leaning towards software as my career path.<br>
@@ -17,7 +14,6 @@
 ✉️ You can email me at [aarohsinha.programming@gmail.com](mailto:aarohsinha.programming@gmail.com). I'll get back to you as soon as I can!<br>
 🌐 Check out my portfolio: [aarohsinha.space](https://aarohsinha.space/)<br>
 📄 Check my [LinkedIn](https://www.linkedin.com/in/aaroh-sinha-375a8a324/) for more about my experience.
-
 
 ## 🛠️ Tech Stack
 
